@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "CINEMA JS: A MATLAB Script for Movie Selection"
+version: 1.0.0
+date-released: 2018-11-18
+authors:
+  - family-names: Moreira
+    given-names: Júlia
+  - family-names: Maia
+    given-names: Mariana
+abstract: "This MATLAB script allows users to select movies from a predefined list at the CINEMA JS, providing a user-friendly interface for movie selection and session booking."
+keywords:
+  - MATLAB
+  - Cinema
+  - Movie Selection
+  - Script
+license: Apache-2.0
+repository-code: "https://github.com/JulyaMoreyra/Bilheteira-de-Cinema-JS"
+
